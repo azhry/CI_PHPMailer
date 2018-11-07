@@ -28,3 +28,6 @@ Install <a href="https://github.com/PHPMailer/PHPMailer">PHPMailer</a> using Com
       $this->ci_phpmailer->displayError();
   }
 ```
+
+<hr/>
+Contact me: <a href="mailto:arliansyah_azhary@yahoo.com">arliansyah_azhary@yahoo.com</a>
